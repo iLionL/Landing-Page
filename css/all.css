@@ -53,8 +53,8 @@ header{
 }
 .tick{
 	position: absolute;
-    left: 49.5vw;
-    bottom: 0;
+    left: 48.5vw;
+    bottom: 5px;
 }
 /*-----------------------NAV---------------------------------*/
 main{
